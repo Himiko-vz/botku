@@ -23,6 +23,7 @@ function pickRandom(list) {
 
 global.taugasih= [
 "Tahukah Anda seekor capung bisa terbang dengan kecepatan 40kph (25mph)",
+"Tahukah Anda bahwa ada yg lebih manis dari gula yaitu ownerku👀",
 "Tahukah Anda bahwa semua burung hantu bertelur putih?",
 "Tahukah Anda bahwa Hawaii secara resmi menjadi bagian dari AS pada 14 Juni 1900",
 "Tahukah Anda bahwa rata-rata orang tertawa 10 kali sehari?",
